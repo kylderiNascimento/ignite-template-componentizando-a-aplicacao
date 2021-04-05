@@ -17,3 +17,13 @@ Esse componente, ainda vazio, deve possuir toda a lógica e corpo responsável p
 
 - **src/components/SideBar.tsx**
 Esse componente, também vazio, deve possuir toda a lógica e corpo responsável pela seção que contém o título do site e a parte de navegação à esquerda da página;
+
+
+
+## Resolução
+
+
+# Solução do desafio
+
+Gravei um passo a passo da resolução desse desafio.
+
