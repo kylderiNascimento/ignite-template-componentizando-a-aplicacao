@@ -24,7 +24,7 @@ Esse componente, também vazio, deve possuir toda a lógica e corpo responsável
 
 Primeiro criamos um diretório chamado hooks e nele um arquivo tsx useMain.
 
-Usaremos o useContext para que a aplicação possas acessar o evento de cliques no SideBar e assim mude o Content.
+Usamos o useContext para que a aplicação possas acessar o evento de cliques no SideBar e assim mude o Content.
 
 Retiramos o codigo do App.tsx referente ao sidebar e content, colocamos nos seus respectivos arquivos: SideBar e Content.
 
